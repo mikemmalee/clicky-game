@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Fry",
+      "image": "./assets/img/fry.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bender",
+      "image": "./assets/img/bender.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Leela",
+      "image": "./assets/img/leela.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Zoidberg",
+      "image": "./assets/img/zoidberg.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Nibbler",
+      "image": "./assets/img/nibbler.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Amy",
+      "image": "./assets/img/amy.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Hermes",
+      "image": "./assets/img/hermes.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Kif",
+      "image": "./assets/img/kif.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Farnsworth",
+      "image": "./assets/img/farnsworth.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Zapp",
+      "image": "./assets/img/zapp.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Scruffy",
+      "image": "./assets/img/scruffy.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Mom",
+      "image": "./assets/img/mom.jpg"
+    }
+]
